@@ -1,0 +1,85 @@
+Welcome to Qwirkle!
+-------------------
+Menu
+-----------
+1. New Game
+2. Load game
+3. Credits (Show student information)
+4. Help
+5. Quit
+>
+1. how to choose tile
+2. how to place tile
+3. how to quit in the middle of the game
+4. back
+> 
+to choose the tile that you want to put by typing one of the tile's name in your hand
+when 'which tile would you place?' show up
+type <tile's color><tile's number>
+example: 
+your hand is P4 P5 Q5 R6 B4 X7 
+which tile would you place? 
+> R6 (color: R, number: 6)
+note: color must be UPPERCASE
+
+Menu
+-----------
+1. New Game
+2. Load game
+3. Credits (Show student information)
+4. Help
+5. Quit
+>
+
+to choose where the tile will be placed, you have to type the location on the board
+when 'where would you like to place this tile?' show up
+type <row><column>
+example: 
+your hand is P4 P5 Q5 R6 B4 X7 
+which tile would you place? 
+ |1|2|3|4|5|
+A| | | | | |
+B| | | | | |
+C| | | | | |
+where would you like to place the tile
+> A1 (row: A, column: 1)
+note: row must be UPPERCASE
+
+Menu
+-----------
+1. New Game
+2. Load game
+3. Credits (Show student information)
+4. Help
+5. Quit
+> 
+
+1. how to choose tile
+2. how to place tile
+3. how to quit in the middle of the game
+4. back
+>
+type 'quit' or 'QUIT' to back to the main menu when in game
+
+Menu
+-----------
+1. New Game
+2. Load game
+3. Credits (Show student information)
+4. Help
+5. Quit
+>
+1. how to choose tile
+2. how to place tile
+3. how to quit in the middle of the game
+4. back
+>
+
+Menu
+-----------
+1. New Game
+2. Load game
+3. Credits (Show student information)
+4. Help
+5. Quit
+>
